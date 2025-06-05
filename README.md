@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/98a0160b-e1df-46f1-a4be-4808c8811040)
+
 **Simple Task Manager**
 
 A clean and minimal **Task Manager** built using **React** and **Tailwind CSS**, styled to resemble a modern to-do app. It allows users to add, delete, filter, and complete tasks with visual indicators and icons.
@@ -33,4 +35,4 @@ npm install
 npm run dev
 Open in Browser
 Visit http://localhost:5173
-![image](https://github.com/user-attachments/assets/98a0160b-e1df-46f1-a4be-4808c8811040)
+
